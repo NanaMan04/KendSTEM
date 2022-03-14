@@ -14,6 +14,12 @@ article, header, section, aside, details, figcaption, figure, footer, header, hg
 }
 
 body {
+  color: #222;
+    font-size: 100%;
+    line-height: 24px;
+    margin: 0;
+	padding:0;
+	font-family: "Raleway",sans-serif;
   background: #67B26F;
   background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);
   background: linear-gradient(to right, #4ca2cd, #67B26F);
@@ -21,15 +27,6 @@ body {
   margin: 0;
   font-family: 'Lato', sans-serif;
   color: #000;
-}
-
-body {
-    color: #222;
-    font-size: 100%;
-    line-height: 24px;
-    margin: 0;
-	padding:0;
-	font-family: "Raleway",sans-serif;
 }
 a{
 	font-family: "Raleway",sans-serif;
