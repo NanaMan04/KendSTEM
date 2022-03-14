@@ -208,12 +208,7 @@ img {
     transform: rotateY(180deg);
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
+
 
 .gallery-image {
     margin-left: -105px;
